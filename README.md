@@ -8,12 +8,7 @@
 <a href="https://hub.docker.com/u/pelias"><img src="https://img.shields.io/docker/pulls/pelias/api?style=flat&color=informational" /></a>
 <a href="https://gitter.im/pelias/pelias"><img src="https://img.shields.io/gitter/room/pelias/pelias?style=flat&color=yellow" /></a>
 </p>
-<p align="center">
-	<a href="https://github.com/pelias/docker">Local Installation</a> ·
-        <a href="https://geocode.earth">Cloud Webservice</a> ·
-	<a href="https://github.com/pelias/documentation">Documentation</a> ·
-	<a href="https://gitter.im/pelias/pelias">Community Chat</a>
-</p>
+
 # ISQA8600-From-Data-To-Decisions
 **My personal repository**\
 **License information**: <ins>Name</ins> - Apache license 2.0, <ins>License keyword</ins> - apache-2.0\
