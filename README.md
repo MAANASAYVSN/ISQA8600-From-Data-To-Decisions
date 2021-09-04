@@ -4,9 +4,8 @@
 <h3 align="center">My personal repository</h3>
 <p align="center">This repository provides all the code & information about my individual assignments.</p>
 <p align="center">
-<a href="https://en.wikipedia.org/wiki/MIT_License"><img src="https://img.shields.io/github/license/pelias/api?style=flat&color=orange" /></a>
-<a href="https://hub.docker.com/u/pelias"><img src="https://img.shields.io/docker/pulls/pelias/api?style=flat&color=informational" /></a>
-<a href="https://gitter.im/pelias/pelias"><img src="https://img.shields.io/gitter/room/pelias/pelias?style=flat&color=yellow" /></a>
+<a href="https://en.wikipedia.org/wiki/Apache_License"><img src="https://img.shields.io/github/license/pelias/api?style=flat&color=orange" /></a>
+
 </p>
 
 # ISQA8600-From-Data-To-Decisions
