@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/University_of_Nebraska_Omaha_%22O%22.png">
+  <img height="100" src="https://www.unomaha.edu/university-communications/downloadables/lock-up/uno-lock-up-color-black.png">
 </p>
 <h3 align="center">A modular, open-source search engine for our world.</h3>
 <p align="center">Pelias is a geocoder powered completely by open data, available freely to everyone.</p>
