@@ -12,8 +12,8 @@
 
 **License information**: <ins>Name</ins> - Apache license 2.0, <ins>License keyword</ins> - apache-2.0
 ## My individual assignments
-  Data Entry Analysis : Assignment 1\
-  Data Exploration : Assignment 2
+  Data Exploration : Assignment 1\
+  Data Entry Analysis : Assignment 2
   
 
 
