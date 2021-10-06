@@ -10,8 +10,7 @@
 
 # ISQA8600-From-Data-To-Decisions
 **License Information**  
-
- Name: 
+Name: 
   <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>
 ## My individual assignments
   Data Exploration : Assignment 1\
