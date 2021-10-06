@@ -10,7 +10,8 @@
 
 # ISQA8600-From-Data-To-Decisions
 
-  Name ![Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). License keyword- apache-2.0
+  Name [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). License keyword- apache-2.0
+  <a href="https://www.apache.org/licenses/LICENSE-2.0">This is a link</a>
 ## My individual assignments
   Data Exploration : Assignment 1\
   Data Entry Analysis : Assignment 2
