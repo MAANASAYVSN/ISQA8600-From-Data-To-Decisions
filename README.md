@@ -10,7 +10,7 @@
 
 # ISQA8600-From-Data-To-Decisions
 
-**License information**: Name - Apache license 2.0,  License keyword- apache-2.0
+  **License information**: <ins>Name</ins> - Apache license 2.0,  License keyword- apache-2.0
 ## My individual assignments
   Data Exploration : Assignment 1\
   Data Entry Analysis : Assignment 2
