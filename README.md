@@ -11,7 +11,7 @@
 # ISQA8600-From-Data-To-Decisions
 **License Information** 
   
-Name:Apache 2.0, the following is the link to the apache license information 
+  <ins>Name</ins> : Apache 2.0, the following is the link to the apache license information 
   
   <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>
 ## My individual assignments
