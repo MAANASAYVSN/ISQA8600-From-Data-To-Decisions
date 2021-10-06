@@ -15,7 +15,7 @@
   
   <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>
 ## My individual assignments
-  Data Exploration : https://github.com/MAANASAYVSN/ISQA8600-From-Data-To-Decisions/blob/df9e50cad519d8688ce8137231c415d653a49e31/data-exploration-assignment-1.pdf \
+  [Data Exploration] (https://github.com/MAANASAYVSN/ISQA8600-From-Data-To-Decisions/blob/df9e50cad519d8688ce8137231c415d653a49e31/data-exploration-assignment-1.pdf) \
   Data Entry Analysis : Assignment 2
   
 
