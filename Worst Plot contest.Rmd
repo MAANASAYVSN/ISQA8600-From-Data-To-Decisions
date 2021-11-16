@@ -1,0 +1,19 @@
+First we set the working directory.
+
+```{r}
+setwd("/Users/myanamandravenkata@unomaha.edu/Downloads")
+hfs = read.csv("HFS Service Data.csv")
+
+df <- data.frame(hfs)
+df$is_client_involved <- as.numeric(df$is_client_involved)
+
+
+df$is_noshow <- as.numeric(df$is_noshow)
+df$is_locked <- as.numeric(df$is_locked)
+df$is_billed <- as.numeric(df$is_billed)
+df$is_paid <- as.numeric(df$is_paid)
+
+df$do_not_bill <- as.numeric(df$do_not_bill)
+df$do_not_pay <- as.numeric(df$do_not_pay)
+df$is_billable <- as.numeric(df$is_billable)
+#df$gender <- as.numeric((df$gender))
